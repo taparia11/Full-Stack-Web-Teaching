@@ -27,7 +27,7 @@ int main() {
     arm = obj.checkArmstrong(x);
 
     if (arm == x) {
-        cout << "Number is armstrong:" << x;
+        cout << "Number is armstrong:" << x; 
     } else {
         cout << "Number is not armstrong:" << x;
     }
