@@ -1,0 +1,112 @@
+
+         .cssproperties{
+             /* text color */
+             color: blue; 
+             /* text font type  */
+             font-family: cursive;
+             /* text font size  */
+             font-size: 50px;
+             /* background color  */
+             background-color:red;
+             /* height of line  */
+             line-height: 2.2;
+             /* font weight  */
+             font-weight: bold;
+            /* distance between text inside box and box border  */
+            padding-left: 220px;
+            padding-right: 50px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+
+            top right bottom left 
+            padding: 20px 10px 20px 20px;
+
+            /* background color  */
+            background-color: rgb(187, 27, 147);
+            color: rgb(202, 247, 4);
+             /* margin is distance between box border and web page */
+            margin-left: 110px;
+            margin-top: 50px;
+            margin-right: 170px;
+            margin-bottom: 50px;
+            /* size of box border */
+            border-width: 5px;
+            /* Border color */
+            border-color: goldenrod;
+            border-style: solid;
+            /* radius we use to curve are border */
+            border-radius: 10px;
+            border-top-left-radius: 30px;
+            border-bottom-right-radius: 30px;
+             /*Alignment of our text  */
+            text-align: right;
+         }
+        /* p{
+            color: white;
+            background-color: red;
+            line-height: 2.2;
+            font-weight: bold;
+
+        } */
+        #heading{
+            color: orange;
+            font-size: 65px;
+        }
+        /* For class we use . and for id we use # */
+        .session{
+            /* color: rgb(61, 199, 209); */
+            font-family: cursive;
+            background-color: green;
+            line-height: 2.2;
+            font-weight: bold;
+        }
+        .border{
+            background-color: yellow;
+            height: 50px;
+            width: 200px;
+            border-width: 5px;
+            border-color: goldenrod;
+            border-style: solid;
+            border-radius: 10px;
+            border-top-left-radius: 30px;
+             border-bottom-right-radius: 30px;
+             text-align: right;
+        }
+        .form1{
+            border-color: pink;
+            background-color: gray;
+            border-radius: 15px;
+            border-style: solid;
+            border-width: 4px;
+            text-align: center;
+        }
+        .box{
+            border-color:blue;
+            border-width: 4px;
+            border-style: solid;
+            /* padding-left: 220px;
+            padding-right: 50px;
+            padding-top: 20px;
+            padding-bottom: 20px; */
+
+            /* top right bottom left */
+            padding: 20px 10px 20px 20px;
+
+            background-color: rgb(187, 27, 147);
+            color: rgb(202, 247, 4);
+            margin-left: 110px;
+            margin-top: 50px;
+            margin-right: 170px;
+            margin-bottom: 50px;
+
+        }
+        #btn{
+            background-color: red;
+            font-size: 20px;
+            margin-left: 20px;
+            margin-top: 20px;
+            border-radius: 30px;
+            border-color: red;
+            border-width: 4px;
+            color: white;
+        }
